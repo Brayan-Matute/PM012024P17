@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PM012024P1</string>
+    <string name="nombres">Ingrese su nombre</string>
+    <string name="apellidos">Ingrese su apellido</string>
+    <string name="telefono">Ingrese su telefono</string>
+    <string name="Btn_procesar">Procesar</string>
+    <string name="edad">Ingrese edad</string>
+    <string name="correo">Ingrese correo</string>
+    <string name="PantallaIngreso">Agregar Persona</string>
+    <string name="PatallaLista">Lista Personas\t</string>
+    <string name="TomarFoto">Capturar Foto\t</string>
+    <string name="btnvideo">Capturar Video</string>
+</resources>
